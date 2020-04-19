@@ -1,2 +1,5 @@
 # World_Weather_Analysis
-Acces .ipynb files for complete analysis
+Access .ipynb files for complete analysis
+- Vacation_Itinerary
+- Vacation_Search
+- Weather_Database
